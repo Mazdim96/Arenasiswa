@@ -1,0 +1,38 @@
+{
+  "name": "Arenasiswa.com",
+  "short_name": "Arenasiswa",
+  "start_url": "https://www.arenasiswa.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog Pendidikan Media Belajar Online",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-mdGsnlD1XrI/XRaaqvkuFzI/AAAAAAAAAHY/tVTz8BaCA_8OBioHjgX2hrw9ZfFvuleSgCLcBGAs/s48/logo-arenasiswa-512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-mdGsnlD1XrI/XRaaqvkuFzI/AAAAAAAAAHY/tVTz8BaCA_8OBioHjgX2hrw9ZfFvuleSgCLcBGAs/s72/logo-arenasiswa-512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-mdGsnlD1XrI/XRaaqvkuFzI/AAAAAAAAAHY/tVTz8BaCA_8OBioHjgX2hrw9ZfFvuleSgCLcBGAs/s96/logo-arenasiswa-512.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-mdGsnlD1XrI/XRaaqvkuFzI/AAAAAAAAAHY/tVTz8BaCA_8OBioHjgX2hrw9ZfFvuleSgCLcBGAs/s144/logo-arenasiswa-512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-mdGsnlD1XrI/XRaaqvkuFzI/AAAAAAAAAHY/tVTz8BaCA_8OBioHjgX2hrw9ZfFvuleSgCLcBGAs/s168/logo-arenasiswa-512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-mdGsnlD1XrI/XRaaqvkuFzI/AAAAAAAAAHY/tVTz8BaCA_8OBioHjgX2hrw9ZfFvuleSgCLcBGAs/s192/logo-arenasiswa-512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-mdGsnlD1XrI/XRaaqvkuFzI/AAAAAAAAAHY/tVTz8BaCA_8OBioHjgX2hrw9ZfFvuleSgCLcBGAs/s512/logo-arenasiswa-com.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
